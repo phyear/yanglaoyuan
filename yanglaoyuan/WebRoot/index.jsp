@@ -27,7 +27,7 @@ function lost() {
             <td class="rltitle dotlist"><input type="text" size="30" name="username" required /></td> 
          </tr> 
          <tr class="tr1">
-			<td class="rldatee daslist">ЕЧТМУмТыЃК</td>
+			<td class="rldatee daslist">УмТыЃК</td>
             <td class="rltitle dotlist"><input type="password" size="30" name="password" required /></td> 
          </tr>
          <tr class="tr1">
